@@ -1,49 +1,48 @@
-<h1>Hi 👋, I'm Osama Saeed</h1>
-<p>Flutter Developer | AI Enthusiast | Dart & Python | UI/UX Designer</p>
-
-<h2>🚀 About Me</h2>
-<ul>
-  <li>💻 Flutter Developer building modern mobile apps</li>
-  <li>🤖 AI Enthusiast exploring smart systems</li>
-  <li>🎨 UI/UX Designer focused on clean interfaces</li>
-  <li>📸 Photographer & Creative Content Creator</li>
-</ul>
-
-<h2>🚀 Languages and Tools</h2>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="42"/>
+<h1 align="center">Hi 👋, I'm Osama Saeed</h1>
+<p align="center">
+Flutter Developer | AI Enthusiast | UI/UX Designer
 </p>
 
-<h2>⚡ Where to find me</h2>
+---
 
-<p>
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+## 🚀 About Me
+- 💻 Flutter Developer building modern mobile apps  
+- 🤖 AI Enthusiast exploring smart systems  
+- 🎨 UI/UX Designer focused on clean interfaces  
+- 📸 Photographer & Creative Content Creator  
 
-<a href="https://instagram.com/som_999">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-</a>
+---
 
-<a href="https://facebook.com/YOUR_PROFILE">
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
-</a>
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/som_999)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_PROFILE)
+
+---
+
+## 💻 Tech Stack
+
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamasom7&show_icons=true&theme=tokyonight"/>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=osamasom7&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamasom7&theme=tokyonight"/>
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamasom7&theme=tokyonight"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasom7&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamasom7&layout=compact&theme=tokyonight"/>
 </p>
